@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: purple 3px;
+}
+img{
+    border-radius: 120px;
+    height: 100px;
+}
