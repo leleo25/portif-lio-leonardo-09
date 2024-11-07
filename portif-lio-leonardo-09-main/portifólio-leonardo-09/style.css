@@ -1,12 +1,36 @@
-body{
+body {
     background-color: aqua;
-    display: block; 
+    display: block;
     justify-content: center;
     align-items: center;
     height: 100vh;
     border: purple 3px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 2rem;
 }
-img{
+
+img {
     border-radius: 120px;
+    width: 100px;
     height: 100px;
+}
+
+.perfil {
+    color: blueviolet;
+}
+
+.desc {
+    color: pink;
+}
+
+a {
+    margin: 5px;
+    background-color: rgb(153, 51, 144);
+    padding: 3px;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: left;
 }
